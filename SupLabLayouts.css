@@ -1,0 +1,65 @@
+div#bg{	
+	position:fixed;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+	z-index:-1;
+}  
+header{
+	text-align: center;
+	border-style: outset;
+	border-color: white;
+	color: white;
+	padding: 1em;
+	clear: left;
+	border-radius: 12px;
+	font-size: 40px;
+}
+h2{
+	font-size: 30px;
+}
+
+nav{
+	width: 15%;	
+	border-color: red;
+	color: red;
+	float: left;
+	background-color: none;
+	margin-right: 20px;
+	border-radius: 15px;
+	font-size: 18px;
+}
+a{
+	color: white;
+}
+
+
+section{
+	width: 20%;
+	float: right;
+}
+footer{
+	width: 100%;
+	text-align:center;
+	background-color: none;
+	color:blue;
+	text-align: center;
+	position: absolute;
+	bottom:0;
+	font-size: 25px;
+}
+aside{
+	width: 30%;
+	text-align: right;
+}
+p{
+	color:red;
+	font-size: 18px;
+}
+h1{
+	font-size: 40px;
+}
+article{
+	color: white;
+}
